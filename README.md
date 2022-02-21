@@ -1,1 +1,1 @@
-# 40-rules-of-love
+# 40rulesOfLove
